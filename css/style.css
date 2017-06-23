@@ -1,0 +1,103 @@
+.merienda {
+  font-family: 'Merienda One', cursive;
+}
+
+#img-logo {
+  margin-left: 5%;
+}
+
+#carrusel {
+  background-color: #000;
+  min-height: 600px;
+  height: 600px;
+}
+
+#portafolio {
+  background-image: url(../img/fdo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#contacto {
+  background-image: url(../img/fdo_contacto.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+#nombre {
+  margin: 0% 3% 5% 3%;
+}
+
+#inicio {
+  heigth: 150px;
+}
+.margen5 {
+  margin-top: 5%;
+}
+
+.margen10 {
+  margin-top: 10%;
+}
+
+.margen20 {
+  margin-top: 20%;
+}
+
+hr {
+  border-color: pink;
+  height: 1px;
+}
+
+@media (max-width: 875px) {
+  #carrusel {
+    min-height: 305px;
+    height: 305px;
+  }
+  #img-logo {
+  	margin-left: 7%;
+  }
+}
+
+@media (max-width: 768px) {
+  #carrusel {
+    min-height: 295px;
+    height: 295px;
+  }
+  #img-logo {
+  	margin-left: 10%;
+  }
+}
+
+@media (max-width: 600px) {
+  #carrusel {
+    min-height: 275px;
+    height: 275px;
+  }
+  #img-logo {
+  	margin-left: 12%;
+  }
+}
+
+@media (max-width: 484px) {
+  #carrusel {
+    min-height: 185px;
+    height: 185px;
+  }
+  #img-logo {
+  	margin-left: 15%;
+  }
+}
+
+@media (max-width: 360px) {
+  #carrusel {
+    min-height: 155px;
+    height: 155px;
+  }
+  #img-logo {
+  	margin-left: 20%;
+  }
+}
+
+footer {
+  padding: 10px 0;
+}
