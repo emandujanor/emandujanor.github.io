@@ -125,7 +125,7 @@ hr {
 @media (max-width: 360px) {
   #carrusel {
     min-height: 155px;
-    height: 155px;
+    max-height: 155px;
   }
   #img-logo {
   	margin-left: 20%;
