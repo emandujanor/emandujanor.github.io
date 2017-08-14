@@ -229,3 +229,6 @@ footer {
   width:70%;
   z-index: 900;
 }
+#sidenav-overlay{
+  z-index: 0 !important;
+}
