@@ -118,7 +118,7 @@ hr {
   font-size:2vw;
 }
   #mobile-demo{
-	  z-index: 500;
+	  z-index: 500 !important;
   }
 }
 
