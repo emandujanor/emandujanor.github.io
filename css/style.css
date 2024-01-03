@@ -118,7 +118,7 @@ hr {
   font-size:2vw;
 }
   #mobile-demo{
-	  z-index: 500 !important;
+	  z-index: 1500;
   }
 }
 
@@ -133,7 +133,7 @@ hr {
 	height:auto;
   }
   #mobile-demo{
-	z-index: 500;
+	z-index: 1500;
   }
 }
 
@@ -152,7 +152,7 @@ hr {
   font-size:2.5vw;
 }
  #mobile-demo{
-  z-index: 500;
+  z-index: 1500;
   }
 }
 @media (max-width: 620px) {
@@ -170,7 +170,7 @@ hr {
   font-size:2.5vw;
 }
   #mobile-demo{
-    z-index: 500;
+    z-index: 1500;
   }
 }
 
@@ -188,6 +188,9 @@ hr {
   margin: 0% 3% 5% 3%;
   font-size:2.5vw;
 }
+#mobile-demo{
+z-index:1500;
+  }
 }
 @media (max-width: 484px) {
   #carrusel {
@@ -202,6 +205,10 @@ hr {
   #nombre {
   margin: 0% 3% 5% 3%;
   font-size:3.5vw;
+  }
+#mobile-demo{
+	z-index:1500;
+  }
 }
 
 @media (max-width: 360px) {
@@ -217,6 +224,10 @@ hr {
   #nombre {
   margin: 0% 3% 5% 3%;
   font-size:4.5vw;
+  }
+  #mobile-demo{
+	z-index:1500;
+  }
 }
 @media (max-width: 300px) {
   #carrusel {
@@ -239,7 +250,7 @@ footer {
 }
 #mobile-demo{
   width:70%;
-  z-index: 900;
+  z-index: 1500;
 }
 #sidenav-overlay{
   z-index: 0 !important;
