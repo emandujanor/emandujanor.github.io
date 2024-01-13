@@ -96,13 +96,14 @@ video{
 }
 @media (max-width: 1200px) {
   #carrusel {
+    margin-top:-15px;
     min-height: 400px;
     height: 400px;
   }
   #img-logo {
-  margin-left: 7%;
-	  max-width:80px;
-	width:30%;
+  	margin-left: 7%;
+	max-width:80px;
+	width:20%;
 	height:auto;
   }
   #nombre {
