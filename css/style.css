@@ -80,16 +80,16 @@ video{
   #carrusel {
     min-height: 420px;
     height: 420px;
-    margin-top:-1vw;
+    margin-top:-1.2vw;
   }
   #img-logo {
   margin-left: 7%;
-	width:30%;
+	width:20%;
 	height:auto;
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:1.5vw;
+  font-size:1.8vw;
 }
 }
 @media (max-width: 1200px) {
