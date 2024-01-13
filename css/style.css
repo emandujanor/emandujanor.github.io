@@ -8,6 +8,7 @@ body{
 
 #img-logo {
   margin-left: 5%;
+  width: 70px;
 }
 .logo_ico{
 	width:20px;
@@ -48,7 +49,7 @@ body{
 }
 
 #inicio {
-  heigth: 170px;
+  heigth: 180px;
 }
 #barra_nav{
 	height:12vh;
