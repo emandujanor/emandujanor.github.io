@@ -194,7 +194,7 @@ video{
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:3vw;
+  font-size:3.3vw;
 }
   #mobile-demo{
     z-index: 1500;
@@ -219,7 +219,7 @@ video{
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:3vw;
+  font-size:3.3vw;
 }
 #mobile-demo{
 z-index:1500;
@@ -254,6 +254,9 @@ z-index:1500;
 #sidenav-overlay{
   z-index: 500;
 }
+ #nombre{
+font-size: 6vw;
+ }
 }
 
 @media (max-width: 360px) {
@@ -268,7 +271,7 @@ z-index:1500;
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:4.5vw;
+  font-size:6vw;
   }
   #mobile-demo{
 	z-index:1500;
@@ -276,6 +279,7 @@ z-index:1500;
 #sidenav-overlay{
   z-index: 500;
 }
+
 }
 @media (max-width: 300px) {
   #carrusel {
@@ -287,6 +291,9 @@ z-index:1500;
 	width:30px;
 	height:auto;
   }
+ #nombre{
+font-size: 6vw;
+ }
 }
 footer {
   padding: 10px 0;
