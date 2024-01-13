@@ -167,13 +167,16 @@ video{
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:2.5vw;
+  font-size:2.8vw;
 }
  #mobile-demo{
   z-index: 1500;
   }
 #sidenav-overlay{
   z-index: 500;
+}
+#inicio {
+  heigth: 160px;
 }
 }
 @media (max-width: 620px) {
@@ -188,7 +191,7 @@ video{
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:2.5vw;
+  font-size:3vw;
 }
   #mobile-demo{
     z-index: 1500;
@@ -210,13 +213,16 @@ video{
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:2.5vw;
+  font-size:3vw;
 }
 #mobile-demo{
 z-index:1500;
   }
 #sidenav-overlay{
   z-index: 500;
+}
+#inicio {
+  heigth: 160px;
 }
 }
 @media (max-width: 484px) {
