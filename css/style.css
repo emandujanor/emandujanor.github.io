@@ -18,7 +18,7 @@ body{
   margin-top: 10px;
   height: 100%;
   font-family: 'Raleway', sans-serif;
-  font-size: 1.5rem !important;
+  font-size: 1.6vw !important;
   font-weight: bold;
   z-index:900;
 }
@@ -44,15 +44,16 @@ body{
 
 #nombre {
   	margin: -90px 20px 20px 20px;
-    font-size:3vw;
+    font-size:2.2vw;
 }
 
 #inicio {
-  heigth: 180px;
+  heigth: 170px;
 }
 #barra_nav{
-	height:15vh;
-	vertical-align:middle;
+	height:12vh;
+  vertical-align:middle;
+  padding: 5px 3vw;
 }
 
 .margen5 {
@@ -71,11 +72,15 @@ hr {
   border-color: pink;
   height: 1px;
 }
-
+video{
+  width:90%;
+  max-height: 350px;
+}
 @media (max-width: 1300px) {
   #carrusel {
     min-height: 420px;
     height: 420px;
+    margin-top:-1vw;
   }
   #img-logo {
   margin-left: 7%;
@@ -84,7 +89,7 @@ hr {
   }
   #nombre {
   margin: 0% 3% 5% 3%;
-  font-size:2vw;
+  font-size:1.5vw;
 }
 }
 @media (max-width: 1200px) {
