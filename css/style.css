@@ -73,8 +73,8 @@ hr {
   height: 1px;
 }
 video{
-  width:90%;
-  max-height: 350px;
+  width:80%;
+  max-height: 300px;
 }
 @media (max-width: 1300px) {
   #carrusel {
@@ -83,7 +83,8 @@ video{
     margin-top:-1.2vw;
   }
   #img-logo {
-  margin-left: 7%;
+  	margin-left: 7%;
+	max-width:80px;
 	width:20%;
 	height:auto;
   }
@@ -99,6 +100,7 @@ video{
   }
   #img-logo {
   margin-left: 7%;
+	  max-width:80px;
 	width:30%;
 	height:auto;
   }
